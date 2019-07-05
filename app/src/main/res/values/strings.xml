@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PushNotificationBack4App</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">ox0SzR7LUO22CwthIeA9Hnp1rp43vqD2kbYd0eXQ</string>
+    <string name="back4app_client_key">wcVtIc70zy9LF6j1EDhr4YtDxy7C2DODAA92HHyz</string>
+    <string name="gcmsenderid_key">538482601115</string>
+</resources>
